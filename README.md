@@ -1,7 +1,8 @@
-[Mario](https://codesandbox.io/p/sandbox/gb-mario-3r7289)
-[Mario Comprehensive](https://codesandbox.io/p/sandbox/gb-mariocomprehensive-rhxkzs)
-[Real World Example](https://codesandbox.io/p/sandbox/gb-realworld-jww5jj?file=%2Fsrc%2FApp.js)
+Live Links:
 
+- [Mario](https://codesandbox.io/p/sandbox/gb-mario-3r7289)
+- [Mario Comprehensive](https://codesandbox.io/p/sandbox/gb-mariocomprehensive-rhxkzs)
+- [Real World Example](https://codesandbox.io/p/sandbox/gb-realworld-jww5jj?file=%2Fsrc%2FApp.js)
 
 ```javascript
 import { useReducer } from "react";
